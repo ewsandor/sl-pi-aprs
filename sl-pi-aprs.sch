@@ -610,7 +610,7 @@ U 1 1 60D748C4
 P 10250 1800
 F 0 "J9" H 10330 1842 50  0000 L CNN
 F 1 "GPS Header" H 10330 1751 50  0000 L CNN
-F 2 "sl-pi-aprs:PinHeader_1x05_P2.54mm_Vertical_gt-u7_breakout" H 10250 1800 50  0001 C CNN
+F 2 "Connector_JST:JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical" H 10250 1800 50  0001 C CNN
 F 3 "~" H 10250 1800 50  0001 C CNN
 	1    10250 1800
 	1    0    0    -1  
